@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StudyGuide</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="places">places</string>
+    <string name="map">Map of study locations</string>
+    <string name="name">Name</string>
+    <string name="mail">Mail</string>
+    <string name="enter_the_name">Enter the name</string>
+    <string name="add_location">add a location</string>
+    <string name="add_butt">Add a location</string>
+
+</resources>
